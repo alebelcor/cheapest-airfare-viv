@@ -1,0 +1,63 @@
+{
+  "Success": true,
+  "availabilityTemplate": {
+    "OutAvailability": [{
+      "LightFare": {
+        "OriginalBaseFare": 1012.990000000
+      },
+      "BasicFare": {
+        "OriginalBaseFare": 1113.000000000
+      },
+      "PlusFare": null,
+      "SmartFare": {
+        "OriginalBaseFare": 1471.980000000
+      },
+      "FareData": {
+        "OriginalBaseFare": 1012.990000000
+      }
+    }, {
+      "LightFare": {
+        "OriginalBaseFare": 935.000000000
+      },
+      "BasicFare": {
+        "OriginalBaseFare": 1035.000000000
+      },
+      "PlusFare": null,
+      "SmartFare": {
+        "OriginalBaseFare": 1393.990000000
+      },
+      "FareData": {
+        "OriginalBaseFare": 935.000000000
+      }
+    }],
+    "InAvailability": [{
+      "LightFare": {
+        "OriginalBaseFare": 617.890000000
+      },
+      "BasicFare": {
+        "OriginalBaseFare": 717.890000000
+      },
+      "PlusFare": null,
+      "SmartFare": {
+        "OriginalBaseFare": 1076.880000000
+      },
+      "FareData": {
+        "OriginalBaseFare": 617.890000000
+      }
+    }, {
+      "LightFare": {
+        "OriginalBaseFare": 617.890000000
+      },
+      "BasicFare": {
+        "OriginalBaseFare": 717.890000000
+      },
+      "PlusFare": null,
+      "SmartFare": {
+        "OriginalBaseFare": 1076.880000000
+      },
+      "FareData": {
+        "OriginalBaseFare": 617.890000000
+      }
+    }]
+  }
+}
