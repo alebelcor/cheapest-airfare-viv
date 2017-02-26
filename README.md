@@ -68,6 +68,10 @@ Type: `string`
 
 Return date in `YYYY-MM-DD`. Leave out if it's a one-way flight.
 
+## Related
+
+* [cheapest-airfare-amx](https://github.com/alebelcor/cheapest-airfare-amx) - Get the cheapest airfare of an [Aeroméxico](https://aeromexico.com) flight
+
 ## License
 
 MIT © Alejandro Beltrán
