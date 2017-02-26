@@ -2,6 +2,8 @@
 
 >️ Get the cheapest airfare of a [VivaAerobus](https://www.vivaaerobus.com) flight
 
+[![Build Status](https://img.shields.io/travis/alebelcor/cheapest-airfare-viv/master.svg)](https://travis-ci.org/alebelcor/cheapest-airfare-viv)
+
 ## Install
 
 Ensure you have [Node.js](https://nodejs.org) version 4+ installed.
