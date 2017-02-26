@@ -10,7 +10,7 @@ const options = {
   departureDate: '2016-01-01'
 };
 
-test('it should have members', (t) => {
+test('it should have members', t => {
   const query = fn(options);
 
   t.is(query.AirportFrom, 'MEX');
@@ -26,7 +26,7 @@ test('it should have members', (t) => {
   t.is(query.isReturnTrip, false);
 });
 
-test('it should consider roundtrip flights', (t) => {
+test('it should consider roundtrip flights', t => {
   options.returnDate = '2016-01-05';
   const query = fn(options);
 
