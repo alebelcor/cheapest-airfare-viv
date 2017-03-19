@@ -6,7 +6,7 @@ import fn from '../lib/get-legs';
 
 import fixtures from './fixtures';
 
-let rawLegs = fixtures.availabilityTemplate.OutAvailability;
+const rawLegs = fixtures.availabilityTemplate.OutAvailability;
 let legs;
 let leg;
 

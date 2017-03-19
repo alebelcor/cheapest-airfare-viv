@@ -5,7 +5,7 @@ import fn from '../lib/get-leg-fares';
 
 import fixtures from './fixtures';
 
-let rawLeg = fixtures.availabilityTemplate.OutAvailability[0];
+const rawLeg = fixtures.availabilityTemplate.OutAvailability[0];
 let legFares;
 
 test.beforeEach(() => {
